@@ -1,17 +1,15 @@
 # NIC.br.base.CETIC
 
-# Base de dados unificada da pesquisa CETIC Domicilios 2015+16+17 com os campos comuns aos três anos
-
-
+# *Base de dados unificada da pesquisa CETIC Domicilios 2015+16+17*
 
 *DISCLAIMER* Este trabalho é uma iniciativa pessoal e visa compartilhar informação pronta que outras pessoas teriam que investir tempo e acabariam reinventado a roda. Não posso, no entanto, assegurar que tudo está correto e portanto não dou nenhuma garantia sobre isso. Estando no github, assumo que de forma colaborativa podemos melhorar a informação. NIC.BR, CETIC, FEA, USP, ou meus empregadores NÃO TEM NENHUMA responsabilidade sobre os dados. Use por sua conta e risco.
 
 O trabalho de conclusão da matéria EAD5754 - Análise Preditiva de Dados (FEA/USP, Profs. Geraldo Vidal e Cesar Souza), prevê análise da pesquisa CETIC (https://cetic.br/microdados/).
 
 
-As bases são disponibilizadas por ano, com seus respectivos dicionários de dados. Este repositório reflete o trabalho que eu tive que fazer para juntar as três bases no sentido de facilitar análises comparativas.
+As bases são disponibilizadas por ano, com seus respectivos dicionários de dados. Este repositório reflete o trabalho feito para juntar as três bases e facilitar análises comparativas ano a ano. Pode ser usado no R, Python, SQL, PowerBI, Qlik, Tableau, etc.
 
-Arquivos:
+# Arquivos
 
 * Readme.md (este arquivo)
 * O código em R (em R Markdown, Projeto EAD5754 1.TRANSF v4 (UTF8).Rmd)
@@ -23,7 +21,7 @@ Arquivos:
 * BASE CONSOLIDADA individuos
 
 
-As principais Atividades foram as seguintes:
+# Principais atividades realizadas
 
 1. Conciliação dos dicionários de dados dos três anos, no sentido de identificar os campos comuns às três pesquisas 
 2. Eliminação de campos que não aprecem nos três anos
@@ -31,6 +29,8 @@ As principais Atividades foram as seguintes:
 4. Ajuste da codificação de região (houve mudança em 2017 na codificação, não apenas no nome)
 5. Consolidação de uma base única para os três anos de domicílios
 6. Consolidação de uma base única para os três anos de indivíduos
+
+# Mais informações
 
 Sobre as informações da pesquisa em si, como por exemplo objetivos, áreas de investigação, metodologia, etc. consultar o site do NIC.br no endereço https://cetic.br/pesquisa/domicilios/
 
