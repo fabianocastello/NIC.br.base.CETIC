@@ -34,13 +34,12 @@ As bases são disponibilizadas por ano, com seus respectivos dicionários de dados
 
 Sobre as informações da pesquisa em si, como por exemplo objetivos, áreas de investigação, metodologia, etc. consultar o site do NIC.br no endereço https://cetic.br/pesquisa/domicilios/
 
-Este trabalho foi feito com base nos microdados com o versionamento abaixo:
+Este trabalho foi feito com base nos microdados com o seguinteversionamento (2015, 16 e 17)
 
-		2015	2016	2017
-Domicílios	1.0	1.0	1.1
-Indivíduos	1.0	1.0	1.1
+Domicílios, 1.0, 1.0. 1.1
+Indivíduos, 1.0, 1.0. 1.1
 
+# Contato
 
-*Para entrar em contato*
 www.fcastell.net/bc
 fabianocastello@gmail.com
